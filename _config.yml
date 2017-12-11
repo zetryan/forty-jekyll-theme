@@ -19,8 +19,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url: zetryansatria
-github_url:github.com/zetryan
-linkedin_url:linkedin.com/in/zetryan-satria-217081155/
+github_url: https://github.com/zetryan
+linkedin_url: linkedin.com/in/zetryan-satria-217081155/
 
 # build settings
 markdown: kramdown
